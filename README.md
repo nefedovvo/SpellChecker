@@ -12,4 +12,5 @@ Writer.cs contains a code that is needed to save results in a text file.
 The console app checks misspellings in a text. Punctuation marks are printed as in the original text.
 
 The results are saved to a text file in the project folder.
+
 ...\bin\Debug\net5.0\Log
